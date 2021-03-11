@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/RodrigoAB93/CovidMap.svg)](http://hits.dwyl.com/RodrigoAB93/CovidMap) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
