@@ -1,4 +1,8 @@
-[![HitCount](http://hits.dwyl.com/RodrigoAB93/CovidMap.svg)](http://hits.dwyl.com/RodrigoAB93/CovidMap) 
+# Covid Map 
+
+* Projeto feito para demonstrar quantidade de casos em cada País. 
+
+## Tecnologias
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
